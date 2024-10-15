@@ -1,6 +1,7 @@
 package com.pluralsight.librarybooks;
 
 public class Book {
+
     private static String title;
     private String isbn;
     private int bookID;
